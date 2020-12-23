@@ -30,7 +30,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 group :production do
   gem 'pg'
   gem 'rails_12factor', '0.0.2'
-end
+end 
 
 group :development do
   gem 'listen', '~> 3.2'
